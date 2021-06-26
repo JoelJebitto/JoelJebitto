@@ -5,7 +5,6 @@
 # Projects
 ## 1.[Android Kotlin Projects](https://github.com/JoeJebitto/Android-Kotlin)
 
-<hr/>
 # React Projects
 ## [WebSite](https://web-site-joeljebitto.web.app/)
 
