@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Joel Jebitto
 
 ## 🎓 About Me  
-Hi there! I'm Joel, a 10th-grade student at Spartan International School in Chennai, Tamil Nadu, India. I'm an enthusiastic and self-motivated learner who loves exploring the world of software development. I believe in learning by building, and I’m always excited to dive into new technologies and frameworks.
+Hi there! I'm Joel, a 11th-grade student at Spartan International School in Chennai, Tamil Nadu, India. I'm an enthusiastic and self-motivated learner who loves exploring the world of software development. I believe in learning by building, and I’m always excited to dive into new technologies and frameworks.
 
 Outside the classroom, I spend my time building apps, learning backend development, and customizing my developer environment. I’m currently focused on sharpening my full-stack development skills with a strong emphasis on clean, maintainable code.
 
